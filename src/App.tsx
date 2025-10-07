@@ -143,7 +143,7 @@ function App() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-blue-600 rounded-2xl transform rotate-6"></div>
               <img
-                src="https://raw.githubusercontent.com/theshivammaheshwari/professor/main/public/PP.jpeg"
+                src="https://raw.githubusercontent.com/theshivammaheshwari/phdguideprofile/main/public/PP.jpeg"
                 alt="Dr. Rahul Sharma"
                 className="relative rounded-2xl shadow-2xl w-80 h-80 object-cover border-8 border-white"
               />
