@@ -143,7 +143,7 @@ function App() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-blue-600 rounded-2xl transform rotate-6"></div>
               <img
-                src="/PP.jpeg"
+                src="https://raw.githubusercontent.com/theshivammaheshwari/professor/main/public/PP.jpeg"
                 alt="Dr. Rahul Sharma"
                 className="relative rounded-2xl shadow-2xl w-80 h-80 object-cover border-8 border-white"
               />
@@ -483,7 +483,7 @@ function App() {
                 <h3 className="text-2xl font-bold mb-4">Connect Online</h3>
                 <div className="space-y-4">
                   <a
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/rahulsharma2612/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-3 p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all duration-300"
@@ -505,7 +505,7 @@ function App() {
                   </a>
 
                   <a
-                    href="https://scholar.google.com"
+                    href="https://tinyurl.com/58zdeh9n"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-3 p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all duration-300"
