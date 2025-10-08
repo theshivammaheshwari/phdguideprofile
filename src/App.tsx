@@ -617,7 +617,7 @@ function App() {
       <footer className="bg-slate-900 text-white py-8 px-4">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-slate-400">
-            © 2024 Dr. Rahul Sharma. All rights reserved.
+            © 2025 Dr. Rahul Sharma. All rights reserved.
           </p>
           <p className="text-slate-500 mt-2 text-sm">
             Assistant Professor | Deep Learning Researcher | AI Specialist
